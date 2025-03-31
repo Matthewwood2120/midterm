@@ -4,6 +4,8 @@ import datetime as dt
 import pandas as pd
 
 # Yahoo Finance
+import appdirs as ad
+ad.user_cashe_dir = lambda *args:"/tmp"
 import yfinance as yf
 import financedatabase as fd
 
