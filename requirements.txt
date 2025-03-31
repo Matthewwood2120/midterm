@@ -1,10 +1,9 @@
-streamlit
-yfinance
 numpy
+datetime
 pandas
-plotly
-openpyxl
-scikit-learn
-requests
-tensorflow
-h5py
+appdirs
+yfinance
+financedatabase
+plotly.express
+plotly.graph_objects
+streamlit
